@@ -149,7 +149,6 @@ terhubung ke internet.**
 
 **Sumber:** <https://www.cloudflare.com/learning/dns/what-is-dns/>
 
-## Parafrase Analogi Pencarian Alamat Situs Web
 
 **Analogi:**
 
