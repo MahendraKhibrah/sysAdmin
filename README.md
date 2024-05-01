@@ -8,3 +8,4 @@
 - Tugas 4 : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/task_4/report.md)
 - Tugas 5 : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/task_5/report.md)
 - Tugas 5.1 : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/task_5_1/report.md)
+- Tugas 6 : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/task_6/report.md)
