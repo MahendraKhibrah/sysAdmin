@@ -11,3 +11,4 @@
 - Tugas 5.2 : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/task_5_2/report.md)
 - Tugas 6 : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/task_6/report.md)
 - Tugas 7 : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/task_7/report.md)
+- project kelompok : [Click Here](https://github.com/MahendraKhibrah/sysAdmin/blob/master/project-kelompok/readme.md)
